@@ -1,0 +1,10 @@
+.a .b .c {
+  font-size: 16px;
+  font-weight: 500;
+}
+.os-ios .a .b .c {
+  font-weight: 700;
+}
+.a .b {
+  font-size: 16px;
+}
