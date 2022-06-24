@@ -1,5 +1,4 @@
-# PostCSS mobile [![Build Status](https://travis-ci.org/iamvdo/postcss-mobile.svg)](https://travis-ci.org/iamvdo/postcss-mobile)
-
+# PostCSS mobile 
 
 ## Example
 
@@ -84,5 +83,5 @@ h4 {
   font-size: 40px;
   line-height: 42px;
 }
-
+```
 See [PostCSS](https://github.com/postcss/postcss) docs for examples for your environment.
