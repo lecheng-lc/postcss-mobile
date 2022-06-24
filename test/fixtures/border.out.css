@@ -1,0 +1,15 @@
+.h{
+  border: 0.5px solid transparent;
+  position: relative;
+}
+.h:after{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 200%;
+  transform: scale(0.5);
+  transform-origin: left top;
+  border: 1px solid red;
+}

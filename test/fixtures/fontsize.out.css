@@ -1,0 +1,10 @@
+.test{
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  transform: scale(0.917);
+  transform-origin: left;
+  margin-top: -1px;
+  margin-right: -2px;
+  margin-bottom: -1px;
+}
