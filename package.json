@@ -6,7 +6,6 @@
   "repository": "git@github.com:lecheng-lc/postcss-mobile.git",
   "author": "lecheng",
   "license": "MIT",
-  "private": true,
   "peerDependencies": {
     "postcss": "^8.2.9"
   },
